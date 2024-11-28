@@ -1,6 +1,7 @@
 # Mail-3D: Modern Email Client with 3D Interface
 
 A modern, interactive email client built with React, TypeScript, and Three.js, featuring a stunning 3D interface and smooth animations.
+live demo: https://project-fo23rdnwc-muhammad-izhaans-projects.vercel.app/
 
 ![Mail-3D Interface](screenshot.png)
 
@@ -89,6 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/mail-3d](https://github.com/yourusername/mail-3d)
+mohammadizhan710@gmail.com
